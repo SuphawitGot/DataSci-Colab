@@ -2,7 +2,7 @@
 
 Welcome to my machine learning repository! This collection of Jupyter Notebooks documents my practical exploration of AI, data science, and machine learning concepts. As a computer engineering student, I created this space to implement, experiment with, and understand foundational algorithms in data preprocessing, regression, classification, and clustering.
 
-## 📁 Repository Structure
+## Repository Structure
 
 The notebooks in this repository are categorized by their primary machine learning application:
 
@@ -31,7 +31,7 @@ Algorithms used for predicting discrete categories or classes.
 Algorithms used for finding natural groupings in unlabeled data.
 * `k_means_clustering.ipynb`: Partitioning data into *K* distinct clusters based on feature similarity and centroids.
 
-## 🛠️ Technologies & Libraries Used
+## Technologies & Libraries Used
 
 * **Python 3**
 * **Jupyter Notebook** / Google Colab
@@ -40,7 +40,7 @@ Algorithms used for finding natural groupings in unlabeled data.
 * **Matplotlib**: For plotting and visualizing the data and model boundaries.
 * **Scikit-Learn**: The core library used for building, training, and evaluating the machine learning models.
 
-## 🚀 How to Run the Notebooks
+## How to Run the Notebooks
 
 1. Clone this repository to your local machine:
    ```bash
